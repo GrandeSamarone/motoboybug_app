@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511187012052",
+    "project_id": "fogmotoboy",
+    "storage_bucket": "fogmotoboy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511187012052:android:9488f7b6d03a212cbbee41",
+        "android_client_info": {
+          "package_name": "com.example.motoboybug_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511187012052-g887pkugo0aoa3599hrlur0r686jq460.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motoboybug_app",
+            "certificate_hash": "40b87c908b99537830799811ad0939873aa81a3e"
+          }
+        },
+        {
+          "client_id": "511187012052-419fdrtrq1jvnunvijdaava7omrd7cdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTaEJsXoD8KcvJ9ikppwbsBKhNRjbsibA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511187012052-419fdrtrq1jvnunvijdaava7omrd7cdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
